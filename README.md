@@ -2,7 +2,7 @@
 
 Miltiplicación de Matrices
 
-## **V.1.0**
+## **V1.0**
 
 - - -
 
